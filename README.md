@@ -7,9 +7,7 @@ Candy BOT is developed as an open source BOT for Steemit and It do 10 batches da
 ---
 
 # Example:
-If User Alice and user Bob both bid in same voting batch, Alice Bids 1 SBD and Bob also bids 1 SBD then both will recieve 50.00% vote of the Bot when the bot comes to vote. 
-
-In the Same way If Alice Bids 4 SBD but Bob bids 2 SBD then Alice will get a 66.66% Vote while Bob will get a 33.33% Vote.
+If User Alice and user Bob both bid in same voting batch, Alice Bids 1 SBD and Bob also bids 1 SBD then both will recieve 50.00% vote of the Bot when the bot comes to vote. In the Same way If Alice Bids 4 SBD but Bob bids 2 SBD then Alice will get a 66.66% Vote while Bob will get a 33.33% Vote.
 
 ---
 
