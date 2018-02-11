@@ -19,6 +19,7 @@ Installation of this bot is done with the way done using three Linux Functions N
 ```$ npm install
 $ nodejs candybot.js```
 
+
 The BOT cantains Config.json file to configure properties and other files conected to it like delegators.js, blacklist, package.js and node_modules Files respectively.
 
 Click [Here]() to see the laest Updated Version of CandyBOT!
