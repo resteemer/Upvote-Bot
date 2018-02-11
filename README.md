@@ -16,9 +16,8 @@ In the Same way If Alice Bids 4 SBD but Bob bids 2 SBD then Alice will get a 66.
 # Installation
 Installation of this bot is done with the way done using three applications NodeJS, npm and node. The Source code and Installation Process is opened, some of variables will maybe hidden due to security issues.
 
-`$ npm install`
-
-`$ nodejs candybot.js`
+`$ npm install
+$ nodejs candybot.js`
 
 The BOT cantains Config.json file to configure properties and other files conected to it like delegators.js, blacklist, package.js and node_modules Files respectively.
 
