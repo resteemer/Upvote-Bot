@@ -16,7 +16,7 @@
   "active_key": "<#####>",
   "auto_claim_rewards" : true,
   "post_rewards_withdrawal_account": "ali-hassan",
-  "min_bid": 0.001,
+  "min_bid": 0.01,
   "max_bid": 99,
   "batch_vote_weight": 100,
   "max_post_age": 144,
