@@ -165,7 +165,7 @@ function startVoting(bids) {
   }, 0);
 
   utils.log('=======================================================');
-  utils.log('Bidding Round End! Starting to vote! Total bids: ' + bids.length + ' - $' + total);
+  utils.log('Bidding Round End. Starting to vote! Total bids: ' + bids.length + ' - $' + total);
   utils.log('=======================================================');
 
   for(var i = 0; i < bids.length; i++) {
