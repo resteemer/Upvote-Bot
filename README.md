@@ -31,20 +31,23 @@ Click [Here]() to see the laest Updated Version of CandyBOT!
 
 3. The URL must be correctly expressed in the memo alone. Funds will be refunded by the manual process.
 
+# Minimum Bid, Requirements & Configuration:
+
+---
+Minimum Bid | 0.001 SBD or Steem
+-|-|
+Allows Comments | Yes|
+Accept Steem Bids | Yes|
+Refunds | Yes|
+Post Age Limit | 6 Days|
+Batch Voting Time | 2.4 Hours|
+Daily Batches | 10 |
 
 # API Used
 The main used API Includes `https://api.steemit.com`
 
 # License
 This is not a Private Property as mentioned in the main Installation repo [here](https://github.com/MattyIce/postpromoter), So it is Considered under a Creative Commons ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)) & we don't claim any kind of Copyright to it but further created by the respected owners.
-
-## RPC NODES
-
-`https://api.steemit.com`
-`https://rpc.buildteam.io`
-`https://steemd.minnowsupportproject.org`
-`https://steemd.privex.io`
-`https://gtg.steem.house:8090`
 
 # Get In Touch!
 
