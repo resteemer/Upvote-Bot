@@ -1,1 +1,1 @@
-You got a {weight}% upvote from @{botname} courtesy of @{sender}!
+Congrats! You got {weight}% Candys from @{botname}, Thanks to @{sender}! Enjoy!
