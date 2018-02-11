@@ -1,0 +1,70 @@
+
+{
+  "rpc_nodes": [
+    "https://api.steemit.com",
+    "https://rpc.buildteam.io",
+    "https://steemd.minnowsupportproject.org",
+    "https://steemd.privex.io",
+    "https://gtg.steem.house:8090"
+  ],
+  "disabled_mode": false,
+  "detailed_logging": false,
+  "owner_account": "ah-2002",
+  "account": "ah-2002",
+  "memo_key": "5JANLtMyXnuC6wFRbN3WJXc2MvFykEWGYWp8zVX226quf2Hxyvq",
+  "posting_key": "5JcsGducagWc3RvxXg5QmZHT7HiSGD6bpyzJDgvC2jHcbQaDvge",
+  "active_key": "5KB4YTjQDXVo7cJrGZznCPFtu9dAWdWjr7CVbcSzdqcHqcdextZ",
+  "auto_claim_rewards" : true,
+  "post_rewards_withdrawal_account": "ah-2002",
+  "min_bid": 0.01,
+  "max_bid": 99,
+  "batch_vote_weight": 100,
+  "max_post_age": 144,
+  "allow_comments": true,
+  "currencies_accepted": ["SBD", "STEEM"],
+  "refunds_enabled": true,
+  "min_refund_amount": 0.002,
+  "no_refund": ["bittrex", "poloniex", "openledger", "blocktrades", "minnowbooster"],
+  "flag_signal_accounts": ["spaminator", "cheetah", "steemcleaners", "mack-bot", "blacklist-a"],
+  "comment_location": "comment.md",
+  "blacklist_location": "blacklist",
+  "refund_blacklist": true,
+  "blacklist_donation_account": "steemcleaners",
+  "blacklisted_tags": ["nsfw"],
+  "auto_withdrawal": {
+    "active": true,
+    "accounts": [
+      {
+        "name": "$delegators",
+        "stake": 8000
+      },
+      {
+        "name": "account2",
+        "stake": 2000
+      }
+    ],
+    "frequency": "daily",
+    "execute_time": 20,
+    "memo": "# Daily Earnings - {balance} | Thank you!"
+  },
+  "api": {
+    "enabled": true,
+    "port": 3000
+  },
+  "transfer_memos": {
+    "bot_disabled": "Refund for invalid bid: {amount} - The bot is currently disabled.",
+    "below_min_bid": "Refund for invalid bid: {amount} - Min bid amount is {min_bid}.",
+    "above_max_bid": "Refund for invalid bid: {amount} - Max bid amount is {max_bid}.",
+    "invalid_currency": "Refund for invalid bid: {amount} - Bids in {currency} are not accepted.",
+    "no_comments": "Refund for invalid bid: {amount} - Bids not allowed on comments.",
+    "already_voted": "Refund for invalid bid: {amount} - Bot already voted on this post.",
+    "max_age": "Refund for invalid bid: {amount} - Posts cannot be older than {max_age}.",
+    "invalid_post_url": "Refund for invalid bid: {amount} - Invalid post URL in memo.",
+    "blacklist_refund": "Refund for invalid bid: {amount} - The author of this post is on the blacklist.",
+    "blacklist_no_refund": "Bid is invalid - The author of this post is on the blacklist.",
+    "blacklist_donation": "Bid from blacklisted/flagged user sent as a donation. Thank you!",
+    "flag_refund": "Refund for invalid bid: {amount} - This post has been flagged by one or more spam / abuse indicator accounts.",
+    "flag_no_refund": "Bid is invalid - This post has been flagged by one or more spam / abuse indicator accounts.",
+    "blacklist_tag": "Bid is invalid - This post contains the [{tag}] tag which is not allowed by this bot."
+  }
+}
