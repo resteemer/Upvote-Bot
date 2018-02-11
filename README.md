@@ -32,7 +32,6 @@ Click [Here]() to see the laest Updated Version of CandyBOT!
 3. The URL must be correctly expressed in the memo alone. Funds will be refunded by the manual process.
 
 # Minimum Bid, Requirements & Configuration:
-<center>
 ---
 Minimum Bid | 0.001 SBD or Steem
 -|-|
@@ -42,7 +41,6 @@ Refunds | Yes|
 Post Age Limit | 6 Days|
 Batch Voting Time | 2.4 Hours|
 Daily Batches | 10 |
-</center>
 
 # API Used
 The main used API Includes `https://api.steemit.com`
