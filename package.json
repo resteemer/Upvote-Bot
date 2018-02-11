@@ -1,6 +1,6 @@
 {
-  "name": "postpromoter",
-  "version": "1.8.4",
+  "name": "Candy-Bot",
+  "version": "1.0.0",
   "description": "Steem bid-based voting bot written in JavaScript",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattyIce/postpromoter.git"
+    "url": "git+https://github.com/ah-projects/Candy-Bot.git"
   },
-  "author": "yabapmatt",
+  "author": "ah-alihassan",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
