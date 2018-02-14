@@ -1,6 +1,6 @@
-# CandyBOT - Steemit Bid Based Voting System
+# UpvoteBOT - Steemit Bid Based Voting System
 
-CandyBOT is a Steemit BOT account which allows peoples to get votes by bidding Steem or SBD for there Posts. It based on Java Script By GitHub MattyIce's Project Repo PostPromoter. It's Active with official Steemit account @candybot. This Official owner of this bot is Ali Hassan (@ali-hassan)
+This is a fork of Candy-Bot. It is personalized for my personal use. If you want to to make your own bid-based bot check the original repository : github.com/ah-projects/Candy-Bot
 
 Candy BOT is developed as an open source BOT for Steemit and It do 10 batches daily. After every 2.4 Hours It provides Votes equally among the Bids by the users.
 
@@ -49,7 +49,7 @@ The main used API Includes `https://api.steemit.com`
 # License
 This is not a Private Property as mentioned in the main Installation repo [here](https://github.com/MattyIce/postpromoter), So it is Considered under a Creative Commons ([Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)) & we don't claim any kind of Copyright to it but further created by the respected owners.
 
-# Get In Touch!
+# Get In Touch With The Creator!
 
 Get in touch with the candybot on [Steemit](steemit.com/@candybo) and [Discord](https://discord.gg/U5yksG9) @Candybot or you can simply contact the owner @ali-hassan.
 
